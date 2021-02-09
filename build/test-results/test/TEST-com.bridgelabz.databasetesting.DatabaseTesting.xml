@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.databasetesting.DatabaseTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-09T18:30:24" hostname="ADMIN" time="0.024">
+  <properties/>
+  <testcase name="test" classname="com.bridgelabz.databasetesting.DatabaseTesting" time="0.024"/>
+  <system-out><![CDATA[1 Raj2 Aayush3 Disha]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
